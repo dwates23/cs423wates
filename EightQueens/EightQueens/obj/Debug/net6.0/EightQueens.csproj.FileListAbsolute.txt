@@ -1,0 +1,15 @@
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.csproj.AssemblyReference.cache
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.AssemblyInfoInputs.cache
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.AssemblyInfo.cs
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.exe
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.deps.json
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.runtimeconfig.json
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.dll
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\bin\Debug\net6.0\EightQueens.pdb
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.dll
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\refint\EightQueens.dll
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.pdb
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\EightQueens.genruntimeconfig.cache
+C:\Users\drew.wates\source\repos\EightQueens\EightQueens\obj\Debug\net6.0\ref\EightQueens.dll
