@@ -1,0 +1,14 @@
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\bin\Debug\Turtle.exe.config
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\bin\Debug\Turtle.exe
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\bin\Debug\Turtle.pdb
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle.csproj.AssemblyReference.cache
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\MainWindow.baml
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\MainWindow.g.cs
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\App.g.cs
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle_MarkupCompile.cache
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle.g.resources
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle.Properties.Resources.resources
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle.csproj.GenerateResource.cache
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle.csproj.CoreCompileInputs.cache
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle.exe
+C:\Users\Drewtwo\source\repos\Turtle\Turtle\obj\Debug\Turtle.pdb
