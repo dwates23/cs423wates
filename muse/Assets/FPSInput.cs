@@ -40,4 +40,6 @@ public class FPSInput : MonoBehaviour
         // Move the character using CharacterController
         charController.Move(movement * speed * Time.deltaTime);
     }
+
+    
 }
